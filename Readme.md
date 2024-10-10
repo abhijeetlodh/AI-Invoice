@@ -33,4 +33,4 @@ To set up the project, follow these steps:
     GOOGLE_API_KEY=your_api_key_here
 6. **Usage:**:
     ```bash
-    python solve.py
+    python streamlit run solve.py
