@@ -25,3 +25,12 @@ To set up the project, follow these steps:
 3. **Activate the Conda environment:**:
     ```bash
      conda activate venv/
+4. **Install the required packages:**:
+    ```bash
+    pip install -r requirements.txt
+5. **Set up environment variables: Create a .env file in the root directory and add your environment variables, for example:**:
+    ```bash
+    GOOGLE_API_KEY=your_api_key_here
+6. **Usage:**:
+    ```bash
+    python solve.py
