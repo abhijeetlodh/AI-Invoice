@@ -37,3 +37,7 @@ To set up the project, follow these steps:
 6. **Usage:**:
     ```bash
     python streamlit run solve.py
+
+7. **Write Query**:
+    ```bash
+    Summarize the invoices
