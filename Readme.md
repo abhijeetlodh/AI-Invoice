@@ -24,7 +24,7 @@ To set up the project, follow these steps:
 
 3. **Create a Conda environment:**:
     ```bash
-    conda create --name venv python=3.12
+    conda create --name venv python=3.12 -y
 
 4. **Activate the Conda environment:**:
     ```bash
