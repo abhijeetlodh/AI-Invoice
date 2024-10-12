@@ -41,3 +41,6 @@ To set up the project, follow these steps:
 7. **Write Query**:
     ```bash
     Summarize the invoices
+8. **Write Query**:
+    ```bash
+    create a table of invoices with columns: Invoice Number	Invoice Date	Company Name Customer Name	Total Amount	Sub Total	CGST	SGST	Discount if not applicable then NA	Balance Due
