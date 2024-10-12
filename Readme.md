@@ -43,4 +43,4 @@ To set up the project, follow these steps:
     Summarize the invoices
 8. **Write Query**:
     ```bash
-    create a table of invoices with columns: Invoice Number	Invoice Date	Company Name Customer Name	Total Amount	Sub Total	CGST	SGST	Discount if not applicable then NA	Balance Due
+    create a table of Opulent Duende invoices with columns: Invoice Number	Invoice Date	Company Name Customer Name	Total Amount	Sub Total	CGST	SGST	Discount if not applicable then NA	Balance Due
